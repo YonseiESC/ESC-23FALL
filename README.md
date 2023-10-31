@@ -4,7 +4,7 @@
 
 # 일정
 
-|주차|Main Session<br>(every Thursday 19:00~21:00)|Special Session<br>(Saturday 15:00~17:00)|
+|주차|Multivariate Data Analysis<br>(every Thursday 19:00~21:00)|Special Session<br>(Saturday 15:00~17:00)|
 |:--:|:--------------------------:|:------------------------:|
 |week 0|OT, introduction (9/7)| |
 |week 1|Principal Component Analysis (9/14)<br/>발제자: 최영준, 노희준| |
