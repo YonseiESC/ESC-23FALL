@@ -13,7 +13,7 @@
 |week 4|Discriminant Analysis (10/12)<br/>발제자: 김시은, 박정현|  |
 |-|중간고사 기간(2주)| ESC 홈커밍 행사 (10/28) |
 |week 5|Cluster Analysis (11/2) <br/> 발제자: 김민주, 오동윤| |
-|week 6|Multidimensional Scaling and Correspondence Analysis (11/9)| ESC x KUBIG 교류 행사2 <br/> 연세대 진익훈 교수님 연사특강 (11/18) |
+|week 6|Multidimensional Scaling and Correspondence Analysis (11/9) <br/> 발제자: 이상윤, 김채성 | ESC x KUBIG 교류 행사2 <br/> 연세대 진익훈 교수님 연사특강 (11/18) |
 |week 7|파이널 프로젝트 중간 발표 (11/23)| 최영민 선배님 연사특강 (11/25)|
 |week 8|파이널 프로젝트 최종 발표 (11/30)| |
 |-|기말고사 기간(3주)| |
