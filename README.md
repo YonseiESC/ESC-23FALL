@@ -19,7 +19,10 @@
 |-|기말고사 기간(3주)| |
 
 # 정규스터디
-
+- 해석학(1) (김두은)
+- 베이즈통계 (왕재혁)
+- ML/DL (최가윤)
+- 논문리딩 (오태환)
 
 # 정규세션 교재
 - 주교재: Applied Multivariate Statistical Analysis - Hardle and Simar
