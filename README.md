@@ -29,10 +29,10 @@
 - 주교재: Applied Multivariate Statistical Analysis - Johnson and Wichern
 
 # 세션 영상 유튜브 링크
-- 230907 week 0 OT, introduction : 
-- 230914 week 1 Principal Component Analysis :
-- 230921 week 2 Factor Analysis : 
-- 231005 week 3 Canonical Correlation Analysis : 
+- 230907 Week 0 OT, introduction : 
+- 230914 Week 1 Principal Component Analysis :
+- 230921 Week 2 Factor Analysis : 
+- 231005 Week 3 Canonical Correlation Analysis : 
 - 231012 Week 4 Discriminant Analysis : 
 - 231102 Week 5 Cluster Analysis : 
 - 231109 Week 6 Multidimensional Scaling and Correspondence Analysis : 
