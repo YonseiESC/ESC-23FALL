@@ -6,9 +6,11 @@ Remarks on Parallel Analysis [Paper Link](https://pubmed.ncbi.nlm.nih.gov/268111
 
 
 ## Files Description
-``ESC 23-2 Final Project Team2``: Final Presentation
+`ESC 23-2 Final Project Paper Review Team2.pdf` : Paper summary on Remarks on Parallel Analysis
 
-`Final projec_Team2_Model2_Gaussian.R`: Simulate PA using the data generating method2 with gaussian distribution of the project in team1 [Team1 Paper](https://arxiv.org/abs/1909.10710)
+``ESC 23-2 Final Project Team2.pdf``: Final Presentation
+
+`Final projec_Team2_Model2_Gaussian.R`: Simulate PA using the data generating method2 with gaussian distribution of the [project in team1](https://arxiv.org/abs/1909.10710)
 
 `Final projec_Team2_Model2_Uniform.R`: Simulate PA using the data generating method2 with uniform distribution of the project in team1
 
