@@ -6,7 +6,7 @@ ncycle<-200   #circle times
 #True Factor Number
 r=5; rmax<-10
 
-## for Calculating ACT
+## Bias correction of sample eigenvalues
 under_m <- function(n, j, z, hatEigValues, p){
   rho = (p-j)/(n-1)
   return( -(1-rho)/z + rho*m(n,j,z, hatEigValues, p) )
