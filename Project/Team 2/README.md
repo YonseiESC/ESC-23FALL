@@ -19,3 +19,6 @@ Remarks on Parallel Analysis [Paper Link](https://pubmed.ncbi.nlm.nih.gov/268111
 `Final projec_Team2_Model3_Uniform.R`:Simulate PA using the data generating method3 with uniform distribution of the project in team1
 
 `Final projec_Team2_code1.R`: R code for PA practice
+
+<p align="center"><img width="80%" src="https://github.com/YonseiESC/ESC-23FALL/assets/97665923/38c6dca0-92af-443d-a6f3-54e3ce6800c1">
+<p align="center"><img width="80%" src="https://github.com/YonseiESC/ESC-23FALL/assets/97665923/53165ed7-7156-4678-b49c-6598dccef8ae">
