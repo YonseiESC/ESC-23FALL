@@ -1,19 +1,19 @@
 # Team 2 : Remarks on Parallel Analysis
-[Paper Link](https://pubmed.ncbi.nlm.nih.gov/26811132/)
+Remarks on Parallel Analysis [Paper Link](https://pubmed.ncbi.nlm.nih.gov/26811132/)
 #### Members: 김민주, 김종민, 김준엽, 박정현, 조수연, 조준태
-- Understanding Parallel Analysis based on permutation method by Buja & Eyuboglu
+- Understanding Parallel Analysis(PA) based on permutation method by Buja & Eyuboglu
 - Simulating the PA method using R under various conditions
 
 
 ## Files Description
 ``ESC 23-2 Final Project Team2``: Final Presentation
 
-`Final projec_Team2_Model2_Gaussian.R`:
+`Final projec_Team2_Model2_Gaussian.R`: Simulate PA using the data generating method2 with gaussian distribution of the project in team1 [Team1 Paper](https://arxiv.org/abs/1909.10710)
 
-`Final projec_Team2_Model2_Uniform.R`:
+`Final projec_Team2_Model2_Uniform.R`: Simulate PA using the data generating method2 with uniform distribution of the project in team1
 
-`Final projec_Team2_Model3_Gaussian.R`:
+`Final projec_Team2_Model3_Gaussian.R`: Simulate PA using the data generating method3 with gaussian distribution of the project in team1
 
-`Final projec_Team2_Model3_Uniform.R`:
+`Final projec_Team2_Model3_Uniform.R`:Simulate PA using the data generating method3 with uniform distribution of the project in team1
 
-`Final projec_Team2_code1.R`:
+`Final projec_Team2_code1.R`: R code for PA practice
