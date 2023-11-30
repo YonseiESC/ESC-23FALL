@@ -80,7 +80,7 @@ for (KKK in 1:ncycle) {
   #beta<-diag(1, nrow = p, ncol = r); diagc<-diag(sqrt( runif(p,0,5.5) ))
   
   ## Custom Model2  # no error term
-  beta<-matrix(rnorm(p*r,0,1),p,r); diagc<-diag(rep(0, p))
+  #beta<-matrix(rnorm(p*r,0,1),p,r); diagc<-diag(rep(0, p))
   
   ## Custom Model3.1  # Multicollinearity, one column
   #A=matrix(NA, nrow = p, ncol = r)
@@ -133,7 +133,7 @@ for (KKK in 1:ncycle) {
   sampleCovMat = cov(t(X)); hatRR=cov2cor(sampleCovMat) #Sample Correlation Matrix
   lambdaHatRR = eigen(hatRR)$values #eigenvalues of Sample Correlation Matrix
   
-  lambdaCorrected = c() #Corrected eigenvalues by ACT
+  lambdaCorrected = c() #Bias Corrected eigenvalues
   for(j in 1:rmax){
     lambdaCorrected[j] = -1/under_m(n, j, lambdaHatRR[j], lambdaHatRR, p)
   }
